@@ -1,7 +1,11 @@
 # Nathan Nguyen
 
-**Email:** nathannguyen495@gmail.com | **LinkedIn:** in/thieunguyen1402 | **Phone:** +1 (347) 276-3401 | **Portfolio:** [Nathan's portfolio](https://gifted-quiet-50b.notion.site/Thieu-Nguyen-Completed-Profile-ad9fa96821aa4f74a34d9946f56ff484)
+**Email:** nathannguyen495@gmail.com | **LinkedIn:** in/thieunguyen1402 | **Phone:** +1 (347) 276-3401 
 
+---
+## Portfolio Details
+- Medium Profile: This is where I write about my experience, projects and random thoughts: [Medium link](https://medium.com/@minhthieu135)
+- Portfolio: Where I have all of my projects, ranging from scraping projects, Data Analytics, Clouds, etc [Portfolio](https://gifted-quiet-50b.notion.site/Thieu-Nguyen-Completed-Profile-ad9fa96821aa4f74a34d9946f56ff484)
 ---
 
 ## EDUCATION
@@ -26,17 +30,18 @@
 
 ### Med-kick | Remote  
 **Data Analyst Intern** | May 2023 – Sep 2023
-- **Automated data pipelines:** Built daily call data crawler using Python + Selenium in Docker on AWS, saving 6 hours of manual work weekly
-- **Developed real-time APIs:** Deployed FastAPI-based staffing forecast API on AWS Fargate with <200ms response time, reducing patient wait times by 50%
-- **Implemented monitoring:** Instrumented backend services with custom CloudWatch metrics and Slack alerts, achieving 99.9% data freshness
-- **Optimized analytics:** Designed SQL queries powering executive dashboards, reducing manual data aggregation by 25%
+- Automated data extraction using **Python/Selenium** with **Docker containers** deployed on **AWS**, writing **Parquet files** to **S3** and saving 6 hours of manual work weekly
+- Built real-time API with **FastAPI** and **AWS Fargate + API Gateway**, achieving **<200ms response time** and reducing patient wait times by 50%
+- Implemented monitoring stack with **AWS CloudWatch custom metrics** and **Slack webhook integrations**, improving incident detection time to under 5 minutes
+- Optimized data pipelines with **SQL query optimization** for **executive dashboards** and **automated CSV/PDF reporting**, reducing manual processing by 25%
 
 ### University of South Florida | Tampa, FL
 **Research Assistant - Crypto Analytics Platform** | Nov 2022 – Jan 2023
-- **Built end-to-end pipeline:** Created data ingestion system with Airflow and Selenium, eliminating ~20 hrs/week of manual work
-- **Containerized ML workflows:** Automated model training with Docker and Optuna on AWS Fargate, improving forecast accuracy by 8 percentage points  
-- **Full-stack development:** Developed Next.js/React portal with TypeScript and WebSockets for PDF uploads and real-time forecasting
-- **Performance optimization:** Built ML feature explorer with Redis caching, reducing response time from 4s to 350ms under load
+- Built ETL pipeline using **Apache Airflow** and **Selenium** for **whitepaper text extraction**, containerized with **Docker** and deployed to **AWS S3**, eliminating 20 hours of weekly manual work
+- Automated ML workflows with **Docker**, **Optuna hyperparameter optimization**, and **AWS Fargate**, auto-registering models in **MLflow** and improving forecast accuracy by 8 percentage points  
+- Developed full-stack application using **Next.js/React** with **TypeScript**, **WebSockets**, and **JWT-secured FastAPI** backend for real-time ML predictions
+- Built interactive analytics dashboard with **React/Recharts** and **MUI DataGrid**, backed by **FastAPI REST endpoints** and **Redis caching**, reducing response time from 4s to 350ms
+
 
 ---
 
