@@ -3,7 +3,8 @@
 **Email:** nathannguyen495@gmail.com | **LinkedIn:** in/thieunguyen1402 | **Phone:** +1 (347) 276-3401 
 
 ---
-## Portfolio Details
+## Details
+- Resume on Github: [Github Markdown Resume](https://github.com/MinhThieu145/Micrsoft-Leap-Resume)
 - Medium Profile: This is where I write about my experience, projects and random thoughts: [Medium link](https://medium.com/@minhthieu135)
 - Portfolio: Where I have all of my projects, ranging from scraping projects, Data Analytics, Clouds, etc [Portfolio](https://gifted-quiet-50b.notion.site/Thieu-Nguyen-Completed-Profile-ad9fa96821aa4f74a34d9946f56ff484)
 ---
