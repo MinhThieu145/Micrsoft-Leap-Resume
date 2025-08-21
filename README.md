@@ -42,6 +42,16 @@
 - Developed full-stack application using **Next.js/React** with **TypeScript**, **WebSockets**, and **JWT-secured FastAPI** backend for real-time ML predictions
 - Built interactive analytics dashboard with **React/Recharts** and **MUI DataGrid**, backed by **FastAPI REST endpoints** and **Redis caching**, reducing response time from 4s to 350ms
 
+### eBay Inc. | San Jose, CA
+**Data Science Intern** | May 2024 – Aug 2024
+- Analyzed shopper behavior using **SparkSQL** on **10M+ weekly sessions** to identify conversion bottlenecks with **3% lift potential**
+- Applied **K-means clustering** for behavioral segmentation, collaborating with product managers to document findings in technical reports
+
+### Goldman Sachs | Salt Lake City, UT
+**Summer Analyst – Business Intelligence** | Jun 2024 – Aug 2024
+- Developed automated **data pipeline** with **Alteryx** and **SQL**, replacing manual workflows with **Tableau dashboard** for portfolio management
+- Built **Tableau dashboard** for invoice tracking across **100+ clients**, reducing monthly audit time by **12 hours**
+
 ---
 
 ## PROJECTS
