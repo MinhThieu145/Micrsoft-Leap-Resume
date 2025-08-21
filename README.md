@@ -28,6 +28,13 @@
 - Streamlined admin workflow by adding interactive Slack buttons for challenge approval with signature verification ([PR #4393](https://github.com/Cloud-CV/EvalAI/pull/4393))
 - Automated Fargate worker scaling using CloudWatch Container Insights with CPU/memory thresholds, updating task definitions via boto3 ([PR #4407](https://github.com/Cloud-CV/EvalAI/pull/4407))
 - Built admin dashboard actions for EC2 worker management and automated AWS resource cleanup for disapproved challenges ([PR #4384](https://github.com/Cloud-CV/EvalAI/pull/4384), [PR #4377](https://github.com/Cloud-CV/EvalAI/pull/4377))
+  
+### Med-kick | Remote  
+**Software Engineer Intern** | May 2023 – Sep 2023
+- Automated data extraction using **Python/Selenium** with **Docker containers** deployed on **AWS**, writing **Parquet files** to **S3** and saving 6 hours of manual work weekly
+- Built real-time API with **FastAPI** and **AWS Fargate + API Gateway**, achieving **<200ms response time** and reducing patient wait times by 50%
+- Implemented monitoring stack with **AWS CloudWatch** custom metrics and **Slack webhook** integrations, improving incident detection time to under 5 minutes
+- Optimized data pipelines with **SQL query optimization** for executive dashboards and automated **CSV/PDF reporting**, reducing manual processing by 25%
 
 ### University of South Florida | Tampa, FL
 **Research Assistant - Crypto Analytics Platform** | Nov 2022 – Jan 2023
