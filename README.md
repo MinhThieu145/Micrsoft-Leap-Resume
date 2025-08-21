@@ -42,34 +42,43 @@
 - Developed full-stack application using **Next.js/React** with **TypeScript**, **WebSockets**, and **JWT-secured FastAPI** backend for real-time ML predictions
 - Built interactive analytics dashboard with **React/Recharts** and **MUI DataGrid**, backed by **FastAPI REST endpoints** and **Redis caching**, reducing response time from 4s to 350ms
 
-
 ---
 
 ## PROJECTS
 
-### Google AI Hackathon (CommuteCast)
-**Technologies:** Next.js, TypeScript, Google Gemini, Maps API, AWS, Docker, Kubernetes
-- Developed AI-powered web app generating custom 10-20 minute podcasts using Google Gemini for content creation
-- Deployed scalable infrastructure on AWS using Docker, Kubernetes, and Terraform for concurrent request handling
+### Notebook-Buddy | AI Learning Assistant
+**Technologies:** **Next.js 14**, **TypeScript**, **FastAPI**, **DynamoDB**, **OpenAI API**, **AWS S3**, **AWS Lambda**, **JWT Authentication**  
+**GitHub:** [github.com/MinhThieu145/Notebook-Buddy](https://github.com/MinhThieu145/Notebook-Buddy)
+- Developed full-stack learning platform with interactive canvas system inspired by **Jupyter notebooks** for educational content manipulation and **AI-powered insights**
+- Built responsive frontend using **Next.js 14** with **TypeScript**, **Tailwind CSS**, and custom **React hooks** for real-time canvas interactions and collaborative editing
+- Designed RESTful backend with **FastAPI** and **DynamoDB** for **CRUD operations**, integrated **OpenAI API** for intelligent content analysis and deployed on **AWS Lambda + API Gateway**
+- Implemented real-time text block manipulation with drag-and-drop functionality and **AWS S3** file storage for multimedia content handling
 
-### Azure AI Hackathon (NoteForge)  
-**Technologies:** Next.js, Node.js, Azure Document Intelligence, Azure SQL, OpenAI
-- Built student-focused web app for PDF lecture note processing using Azure Document Intelligence
-- Created Node.js API integration with OpenAI for automated quiz and flashcard generation
+### Auto Job Submission Bot | Automated Job Analysis Platform
+**Technologies:** **Python**, **Selenium**, **AWS ECS**, **Docker**, **Streamlit**, **OpenAI API**, **Microservices Architecture**  
+**GitHub:** [github.com/MinhThieu145/Auto-Job-Submission-Bot](https://github.com/MinhThieu145/Auto-Job-Submission-Bot)
+- Built automated web scraping system using **Python/Selenium** with **AWS ECS** and **Docker containers** to crawl job descriptions from **LinkedIn** and **Indeed**
+- Implemented microservices architecture with containerized services for scheduling, data storage, and network management on **AWS infrastructure**
+- Developed NLP pipeline using **OpenAI API** with **prompt engineering** for keyword extraction and job requirement analysis from collected job descriptions  
+- Created interactive dashboard with **Streamlit** for data visualization and real-time job market insights, handling **AWS IP restrictions** and **API response optimization**
 
 ---
 
 ## TECHNICAL SKILLS
 
-**Programming Languages:** Python, Java, JavaScript, TypeScript, SQL, Golang, HTML, CSS
+• **Programming Languages:** **Python**, **Java**, **JavaScript**, **TypeScript**, **SQL**, **HTML/CSS**
 
-**Frameworks & Technologies:** Django, React, Angular, Node.js, Next.js, FastAPI, REST APIs, GraphQL, gRPC
+• **Backend Frameworks:** **Django**, **FastAPI**, **Node.js**, **Next.js**, **REST APIs**
 
-**Cloud & DevOps:** AWS (Fargate, ECS, S3, CloudWatch), Azure (SQL Database, Document Intelligence), Docker, Kubernetes, CI/CD Pipelines
+• **Frontend Technologies:** **React**, **Angular**, **Bootstrap**, **WebSockets**, **JWT Authentication**
 
-**Databases & Tools:** MySQL, MongoDB, Redis, Git, GitHub Actions, Postman, Linux
+• **Cloud Platforms:** **AWS** (ECS, Fargate, S3, CloudWatch, API Gateway), **Azure** (SQL Database, Document Intelligence)
 
-**Data & Analytics:** Pandas, NumPy, Airflow, MLflow, Selenium, Parquet
+• **DevOps & Tools:** **Docker**, **Kubernetes**, **Terraform**, **Git/GitHub Actions**, **CI/CD Pipelines**
+
+• **Databases:** **MySQL**, **PostgreSQL**, **MongoDB**, **Redis**, **DynamoDB**
+
+• **Data & ML:** **Apache Airflow**, **MLflow**, **Optuna**, **Pandas**, **Selenium**, **Parquet**, **OpenAI API**
 
 ---
 
@@ -77,5 +86,5 @@
 
 **University of South Florida** | Tampa, FL  
 *Vice President* | Sep 2023 – May 2024
-- Managed $5K budget and led team of 3 members, demonstrating leadership and collaborative skills
-- Applied technical skills to financial analysis using Python and Tableau for data-driven decision making
+- Managed organizational operations with **$5K budget tracking** using **Excel/Python** and collaborated with 3-person leadership team
+- Built financial analytics dashboards using **Python** and **Tableau** for budget analysis, identifying **$2K** in cost optimization opportunities
